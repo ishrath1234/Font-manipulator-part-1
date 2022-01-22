@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://previews.agefotostock.com/previewimage/medibigoff/eedc59f810ce5b59dd17a5e93f3b37e9/esy-047636874.jpg");
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 40px grey;
+}
+.note{
+   font-size: 18px; 
+   color: blue;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: cadetblue;
+    text-align: center;
+    line-height: 2;
+    font-size: 15px;
+}
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+    box-shadow: 5px 5px 50px grey;
+}
